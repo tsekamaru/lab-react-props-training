@@ -1,0 +1,9 @@
+.rating {
+  font-size: 3rem;
+}
+
+.rating * {
+  margin: 0;
+  padding: 0;
+  letter-spacing: 1rem;
+}

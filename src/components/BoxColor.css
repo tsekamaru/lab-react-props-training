@@ -1,0 +1,25 @@
+.boxes-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 10rem;
+  width: 40rem;
+  margin: 0.2rem;
+  font-size: 2rem;
+  font-weight: 400;
+  border: solid black 1px;
+}
+
+.boxes-container > div:first-child {
+  color: white;
+}
+
+.box > p {
+    margin: 0;
+}

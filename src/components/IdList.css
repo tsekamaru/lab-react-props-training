@@ -1,0 +1,22 @@
+.id-list > div {
+  display: flex;
+  border: solid black 3px;
+  margin: 1rem 0;
+  width: 40rem;
+}
+
+.id-list > div > img,
+p {
+  margin: 0;
+}
+
+.id-list > div > img,
+div {
+  margin: 0.5rem;
+}
+
+.id-list .personal-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}

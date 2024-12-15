@@ -1,0 +1,6 @@
+#random-container > p {
+  border: solid black 3px;
+  width: 40rem;
+  font-size: 2rem;
+  margin: 1rem 0;
+}
