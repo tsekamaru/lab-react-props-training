@@ -18,6 +18,7 @@ function App() {
       <div id="greetingsContainer">
         <Greetings lang="de">Ludwig</Greetings>
         <Greetings lang="fr">François</Greetings>
+        <Greetings>Benjamin</Greetings>
       </div>
 
       <h1>Iteration 3: Random</h1>
